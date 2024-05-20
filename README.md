@@ -1,1 +1,1 @@
-# Project_upGrad
+The Credit Card Fraud Detection Project in Data Mining builds a system that identifies and flags fraudulent credit card transactions. The goal is to minimize financial losses for both cardholders and card issuers by quickly identifying and stopping unauthorized or suspicious transactions. 
